@@ -2,7 +2,7 @@
 # The object 'gene_list' is a list of genes (eg DEGs) which form the nodes of the hypernetwork
 # The object 'rf_variable' is a variable separating the samples used for random forest
 
-setwd("C:/Users/mfbx9tg4/Desktop/Matina Dec 2020/Data for PCA_new analysis")
+setwd("C:/Users/...")
 
 install.packages("gplots")
 install.packages("Boruta")
